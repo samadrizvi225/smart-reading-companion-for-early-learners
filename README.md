@@ -36,5 +36,9 @@ The application uses AI-based speech transcription to convert voice into text an
 
 ## Installation
 
-1. Download the required libraries. 
+1. Download the required libraries :
+
+    ```bash
+   pip install -r requirements.txt
+   ```
 2. Add your Groq API Key before running the application. 
